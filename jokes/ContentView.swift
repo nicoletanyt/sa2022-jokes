@@ -45,7 +45,7 @@ struct ContentView: View {
                 } label: {
                     Text("what why")
                         .padding()
-                        .background(Color.red)
+                        .background(Color.teal)
                         .foregroundColor(.white)
                 } .padding()
                 
